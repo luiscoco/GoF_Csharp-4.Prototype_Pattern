@@ -1,6 +1,6 @@
 # GoF_Csharp-Prototype_Pattern
 
-Creates new objects by copying existing ones</mark>, thus avoiding the need for complex initialization.
+<mark>Creates new objects by copying existing ones</mark>, thus avoiding the need for complex initialization.
 
 The Prototype Pattern is a creational design pattern in software development that allows you to create new objects by copying existing ones, thus avoiding the need for complex initialization. The key idea is to clone an existing object and customize it as needed rather than creating a new object from scratch.
 
