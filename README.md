@@ -67,6 +67,11 @@ public class ConcretePrototype : IPrototype, ICloneable
 }
 ```
 
+## How to setup Github actions
+
+![Csharp Github actions](https://github.com/luiscoco/GoF_Csharp-4.Prototype_Pattern/assets/32194879/806e630e-e7a0-45bd-a958-cc293c22bf7f)
+
+
 
 
 
